@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Your Name
 
-<!--
-**lalitpanta/lalitpanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 Student / Beginner Developer
+- 🌱 Currently learning: Python, JavaScript
+- 💡 Interested in: Web Development, AI, Games
+- 📫 How to reach me: your-email@example.com
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Languages: Python, JavaScript
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+## 🚀 Projects
+- 🔹 Project 1 – short description
+- 🔹 Project 2 – short description
