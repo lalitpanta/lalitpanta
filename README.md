@@ -1,4 +1,4 @@
-# Hi 👋, I'm Your Name
+# Hi 👋, I'm Lalit Pant
 
 ## 👨‍💻 About Me
 - 🎓 Student / Beginner Developer
